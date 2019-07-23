@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://xshyamx.github.io/sitemap.xml
